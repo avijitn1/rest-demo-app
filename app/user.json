@@ -1,0 +1,19 @@
+{
+    "user": [
+        {
+            "id": 1, 
+            "name": "Avijit Nandi", 
+            "email": "avijitn1@gmail.com",
+            "address": "bangalore",
+            "mobile": 8095197745
+
+        }, 
+        {
+            "id": 2, 
+            "name": "Anupam Nandi", 
+            "email": "anupam@gmail.com",
+            "address": "bangalore",
+            "mobile": 9986917785
+            }
+        ] 
+}
